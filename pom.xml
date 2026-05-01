@@ -29,7 +29,7 @@
             <version>6.1.0</version>
         </dependency>
 
-        <!--Test Dependicies-->
+        <!--Test Dependencies-->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
